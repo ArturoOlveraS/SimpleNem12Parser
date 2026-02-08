@@ -1,0 +1,9 @@
+# Compiled files
+bin/
+*.class
+
+# Eclipse settings
+.settings/
+
+# macOS
+.DS_Store
